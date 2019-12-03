@@ -1,0 +1,93 @@
+p {
+	color: #00004d;
+	font-size:20px;
+	font-family: "proxima-nova-soft", "Proxima Nova Soft", Georgia, Arial, sans-serif;
+	text-indent: 20px;
+	line-height: 1.5;
+}
+
+
+h1,h2 {
+	font-weight: normal;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: Verdana;
+	text-decoration: overline;
+	color: #00004d;
+	letter-spacing: 1px;
+}
+
+h2 {
+	font-family: "proxima-nova-soft";
+}
+
+h3 {
+	font-family: "proxima-nova-soft";
+}
+
+a {
+	font-family: "proxima-nova-soft";
+	color: green;
+}
+
+a:visited {
+	color: tomato;
+}
+
+a:hover, a:focus {
+	color: #5f63b9;
+}
+
+a:active {
+	background-color: white;
+}
+
+body
+{
+	background-color: #D2CECE;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRET8UzNyG1-NaE7Bws1YDAH3jzJZpi8g-cq_BrpmtMSMiArQTs");
+	background-repeat: repeat;
+}
+
+blockquote 
+{
+	background-color: #FFD519;
+	font-style:italic;
+}
+
+li {
+	color: #00004d;
+	font-family: proxima-nova-soft;
+	font-size: 20px;
+}
+
+.highlight {
+	text-align: center;
+}
+
+.nav {
+	text-align: center;
+
+}
+
+.nav li {
+	list-style-type: none;	
+	display: inline-block;
+	width: 90px;
+}
+
+.who {
+	font-style: normal;
+}
+
+.footer {
+	font-size: 12px;
+	color: grey;
+}
+
+.cta {
+	font-weight: bold;
+}
